@@ -55,3 +55,11 @@ footer{
 .button{
     background-color: white;
 }
+.tostdiv{
+    position: relative;
+}
+.tostcustom{
+    position: absolute;
+    top: 0;
+    left: 20.79%;
+}
